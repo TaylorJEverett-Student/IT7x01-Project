@@ -1,0 +1,1 @@
+Note: This application was developed for Android devices.
